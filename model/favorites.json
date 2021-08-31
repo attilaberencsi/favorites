@@ -25,7 +25,7 @@
             "headerImage": "sap-icon://cloud"
         },        
         {
-            "header": "Fiori Apps Referencs Library",
+            "header": "Fiori Apps Reference Library",
             "subheader": "SAP",
             "url": "https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/",
             "headerImage": "sap-icon://sap-box"
@@ -34,7 +34,22 @@
             "header": "GitHub",            
             "url": "https://github.com",
             "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-        }
+        },        
+        {
+            "header": "API Business HUB", 
+            "subheader": "SAP",
+            "url": "https://api.sap.com/",
+            "headerImage": "sap-icon://connected"
+        },        
+        {
+            "header": "Easy-UI5",
+            "subheader": "NPM",
+            "url": "https://www.npmjs.com/package/generator-easy-ui5",
+            "headerImage": "https://avatars.githubusercontent.com/u/6078720?s=200&v=4"
+        }                      
+        
+        
+        https://www.npmjs.com/package/generator-easy-ui5
     ],
     "links": [
         {
