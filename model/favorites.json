@@ -11,6 +11,29 @@
             "subheader": "SAP",
             "url": "https://launchpad.support.sap.com",
             "headerImage": "sap-icon://collision"
+        },
+        {
+            "header": "BTP Trial",
+            "subheader": "SAP",
+            "url": "https://account.hanatrial.ondemand.com/trial/#/home/trial",
+            "headerImage": "sap-icon://cloud"
+        },
+        {
+            "header": "BTP",
+            "subheader": "SAP",
+            "url": "https://account.hana.ondemand.com",
+            "headerImage": "sap-icon://cloud"
+        },        
+        {
+            "header": "Fiori Apps Referencs Library",
+            "subheader": "SAP",
+            "url": "https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/",
+            "headerImage": "sap-icon://sap-box"
+        },        
+        {
+            "header": "GitHub",            
+            "url": "https://github.com",
+            "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ],
     "links": [
