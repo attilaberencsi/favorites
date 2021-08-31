@@ -1,0 +1,60 @@
+<mvc:View
+	controllerName="com.otisoft.favs.Favorites.controller.MainView"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:layout="sap.ui.layout"
+>
+	<App id="app">
+		<Page
+			id="idFavPage"
+			showHeader="false"
+		>
+			<layout:VerticalLayout
+				id="_IDGenVerticalLayout1"
+				class="sapUiResponsiveMargin"
+			>
+				<Title
+					id="_IDGenTitle1"
+					titleStyle="H2"
+					text="Favorites"
+					class="sapUiTinyMarginBegin"
+				/>
+				<layout:HorizontalLayout
+					id="_IDGenHorizontalLayout1"
+					allowWrapping="true"
+					content="{favorites>/tiles}"
+				>
+					<GenericTile
+						id="_IDGenGenericTile1"
+						header="{favorites>header}"
+						subheader="{favorites>subheader}"
+						press="onPress(${favorites>url})"
+						class="sapUiTinyMarginBegin sapUiTinyMarginTop"
+						headerImage="{favorites>headerImage}"
+					/>
+				</layout:HorizontalLayout>
+				<Title
+					id="_IDGenTitle2"
+					titleStyle="H2"
+					text="Links"
+					class="sapUiTinyMarginBegin sapUiMediumMarginTop"
+				/>
+				<layout:HorizontalLayout
+					id="_IDGenHorizontalLayout2"
+					allowWrapping="true"
+					content="{favorites>/links}"
+				>
+					<GenericTile
+						id="_IDGenGenericTile2"
+						header="{favorites>header}"
+						subheader="{favorites>subheader}"
+						press="onPress(${favorites>url})"
+						mode="LineMode"
+						class="sapUiTinyMarginBegin"
+					/>
+				</layout:HorizontalLayout>
+			</layout:VerticalLayout>
+		</Page>
+	</App>
+</mvc:View>

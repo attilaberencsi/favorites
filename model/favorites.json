@@ -1,0 +1,23 @@
+{
+    "tiles": [
+        {
+            "header": "UI5",
+            "subheader": "SAP",
+            "url": "https://sapui5.hana.ondemand.com",
+            "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
+        },
+        {
+            "header": "Support",
+            "subheader": "SAP",
+            "url": "https://launchpad.support.sap.com",
+            "headerImage": "sap-icon://collision"
+        }
+    ],
+    "links": [
+        {
+            "header": "Support",
+            "subheader": "SAP",
+            "url": "https://launchpad.support.sap.com"
+        }
+    ]
+}

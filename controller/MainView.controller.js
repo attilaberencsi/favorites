@@ -1,0 +1,1 @@
+sap.ui.define(["com/otisoft/favs/Favorites/controller/BaseController"],function(e,o){"use strict";return e.extend("com.otisoft.favs.Favorites.controller.MainView",{onInit:function(){},onPress:function(e){sap.m.URLHelper.redirect(e,true)}})});
