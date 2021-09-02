@@ -66,10 +66,10 @@
             "headerImage": "sap-icon://e-learning"
         },
         {
-            "header": "SAP Press",
-            "subheader": "<3",
-            "url": "https://www.sap-press.com",
-            "headerImage": "sap-icon://e-learning"
+            "header": "Developer Tools",
+            "subheader": "SAP",
+            "url": "https://tools.hana.ondemand.com/",
+            "headerImage": "sap-icon://developer-settings"
         }
         
     ],
