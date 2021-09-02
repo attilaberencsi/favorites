@@ -46,7 +46,25 @@
             "subheader": "NPM",
             "url": "https://www.npmjs.com/package/generator-easy-ui5",
             "headerImage": "https://avatars.githubusercontent.com/u/6078720?s=200&v=4"
-        }                      
+        },
+        {
+            "header": "Developers",
+            "subheader": "SAP",
+            "url": "https://developers.sap.com",
+            "headerImage": "sap-icon://source-code"
+        },
+        {
+            "header": "Community",
+            "subheader": "SAP",
+            "url": "https://community.sap.com/",
+            "headerImage": "sap-icon://sap-logo-shape"
+        },
+        {
+            "header": "SAP Press",
+            "subheader": "<3",
+            "url": "https://community.sap.com/",
+            "headerImage": "sap-icon://e-learning"
+        }
         
     ],
     "links": [
