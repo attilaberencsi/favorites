@@ -76,19 +76,7 @@
             "subheader": "SAP",
             "url": "https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md",
             "headerImage": "sap-icon://syntax"
-        },
-        {
-            "header": "ABAPGit",            
-            "url": "https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/LATEST/en-US/2002380aeda84875a5fae4adc66b3fdb.html",
-            "headerImage": "https://git-scm.com/images/logo@2x.png"
-        },
-        {
-            "header": "Git GUI Clients",
-            "subheader": "Git"  ,
-            "url": "https://git-scm.com/download/gui/windows",
-            "headerImage": "https://git-scm.com/images/logo@2x.png"
         }
-        
         
         
         
@@ -96,9 +84,15 @@
     ],
     "links": [
         {
-            "header": "Support",
-            "subheader": "SAP",
-            "url": "https://launchpad.support.sap.com"
+            "header": "ABAPGit",            
+            "url": "https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/LATEST/en-US/2002380aeda84875a5fae4adc66b3fdb.html",
+            "headerImage": "https://git-scm.com/images/logo@2x.png"
+        },        
+        {
+            "header": "Git GUI Clients",
+            "subheader": "Git"  ,
+            "url": "https://git-scm.com/download/gui/windows",
+            "headerImage": "https://git-scm.com/images/logo@2x.png"
         }
     ]
 }
