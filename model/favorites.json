@@ -91,8 +91,13 @@
         {
             "header": "Git GUI Clients",
             "subheader": "Git"  ,
-            "url": "https://git-scm.com/download/gui/windows",
-            "headerImage": "https://git-scm.com/images/logo@2x.png"
+            "url": "https://git-scm.com/download/gui/windows"
+        },
+        {
+            "header": "ABAP CI Plugin",
+            "subheader": "Eclipse",            
+            "url": "https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/LATEST/en-US/2002380aeda84875a5fae4adc66b3fdb.html"
         }
+                
     ]
 }
