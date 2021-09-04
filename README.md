@@ -1,6 +1,7 @@
 # Favorites
 
 Static UI5 app for developer favorites. You can clone this to your own repository, and host it on github.io.
+https://attilaberencsi.github.io/favorites/
 
 ## Usage
 
