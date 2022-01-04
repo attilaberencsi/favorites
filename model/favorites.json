@@ -76,6 +76,11 @@
             "subheader": "SAP",
             "url": "https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md",
             "headerImage": "sap-icon://syntax"
+        },
+        {
+            "header": "ABAP Open Source Projects",
+            "url": "https://dotabap.org/",
+            "headerImage": "https://dotabap.org/logos/dotabap_logo.svg"
         }
         
         
