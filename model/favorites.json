@@ -48,6 +48,18 @@
             "headerImage": "https://avatars.githubusercontent.com/u/6078720?s=200&v=4"
         },
         {
+            "header": "Can I Use",
+            "subheader": "Browser Support",
+            "url": "https://caniuse.com",
+            "headerImage": "sap-icon://sys-help"
+        },
+        {
+            "header": "Mozilla Developer Network",
+            "subheader": "JS Features Docs + Browser Support",
+            "url": "https://developer.mozilla.org/",
+            "headerImage": "sap-icon://internet-browser"
+        },        
+        {
             "header": "Developers",
             "subheader": "SAP",
             "url": "https://developers.sap.com",
