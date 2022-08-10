@@ -90,6 +90,12 @@
             "headerImage": "sap-icon://syntax"
         },
         {
+            "header": "Clean UI5 Samples",
+            "subheader": "SAP Press",
+            "url": "https://clean-ui5.github.io/samples",
+            "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
+        },                                   
+        {
             "header": "ABAP Open Source Projects",
             "url": "https://dotabap.org/",
             "headerImage": "https://dotabap.org/logos/dotabap_logo.svg"
