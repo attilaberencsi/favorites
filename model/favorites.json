@@ -105,10 +105,12 @@
             "header": "ABAP Open Source Projects",
             "url": "https://dotabap.org/",
             "headerImage": "https://dotabap.org/logos/dotabap_logo.svg"
-        }
-        
-        
-        
+        },                                   
+        {
+            "header": "CAP Guide",
+            "url": "https://cap.cloud.sap/docs/get-started/",
+            "headerImage": "sap-icon://syntax"
+        }                
         
     ],
     "links": [
