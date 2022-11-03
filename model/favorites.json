@@ -54,6 +54,11 @@
             "headerImage": "https://avatars.githubusercontent.com/u/6078720?s=200&v=4"
         },
         {
+            "header": "UI5 Tooling",
+            "url": "https://sap.github.io/ui5-tooling",
+            "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
+        },                   
+        {
             "header": "Can I Use",
             "subheader": "Browser Support",
             "url": "https://caniuse.com",
